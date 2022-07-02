@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7a341334.css",
+    "main.js": "/static/js/main.ed2b25b3.js",
+    "static/media/ce-d-2.png": "/static/media/ce-d-2.f0fba734062b2ede6bda.png",
+    "static/media/ce-d-1.png": "/static/media/ce-d-1.c6eb46436bcfe2dec6d9.png",
+    "static/media/ctq-d-1.png": "/static/media/ctq-d-1.ac9b840269ffa9823f1d.png",
+    "static/media/ce-d-3.png": "/static/media/ce-d-3.0c542cdeddeb6a566c23.png",
+    "static/media/ce-m-3.png": "/static/media/ce-m-3.8e2be43850e2833f6d3a.png",
+    "static/media/ctq-m-1.png": "/static/media/ctq-m-1.72e6693d01c0f723aba6.png",
+    "static/media/ce-m-1.png": "/static/media/ce-m-1.4184aae31649271ddd54.png",
+    "static/media/ce-m-2.png": "/static/media/ce-m-2.da688dafdd532bbf1c5c.png",
+    "static/media/ar-d-3.png": "/static/media/ar-d-3.3a558d625db7457d9618.png",
+    "static/media/header-drawing.png": "/static/media/header-drawing.b88d95689051d15891cf.png",
+    "static/media/ar-d-1.png": "/static/media/ar-d-1.7ae7cbc9c541faf3e952.png",
+    "static/media/ar-d-2.png": "/static/media/ar-d-2.25723012849d4fc649c6.png",
+    "static/media/react-logo.png": "/static/media/react-logo.a544fd8cf64d82898e91.png",
+    "static/media/php-logo.png": "/static/media/php-logo.126f7f145191aba1bf16.png",
+    "static/media/ar-m-3.png": "/static/media/ar-m-3.e5aaec4a3bad81f9f421.png",
+    "static/media/ar-m-2.png": "/static/media/ar-m-2.84c2ed120bb2f26fec53.png",
+    "static/media/ar-m-1.png": "/static/media/ar-m-1.a822a838db3c3f514b3b.png",
+    "static/media/contact-pattern.png": "/static/media/contact-pattern.8a4b4a1be058949cb1a3.png",
+    "static/media/mysql-logo.png": "/static/media/mysql-logo.8b53e39f80a93d056b5a.png",
+    "static/media/html-logo.png": "/static/media/html-logo.95ef6c437177f67d30a1.png",
+    "index.html": "/index.html",
+    "main.7a341334.css.map": "/static/css/main.7a341334.css.map",
+    "main.ed2b25b3.js.map": "/static/js/main.ed2b25b3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7a341334.css",
+    "static/js/main.ed2b25b3.js"
+  ]
+}
